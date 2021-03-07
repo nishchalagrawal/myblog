@@ -1,0 +1,18 @@
+body{
+    background: linear-gradient(#fca4ec 0%, #90CAF9 100%);
+  background-repeat: no-repeat;
+  text-align:center;
+}
+img{
+  border-radius:50%;
+  width:100px;
+}
+.h1{
+  text-shadow:2px #F8BBD0;
+  font size:20px;
+}
+p{
+color:#6A1B9A;
+  font-size:18px;
+
+}
